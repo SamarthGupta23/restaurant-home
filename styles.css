@@ -1,0 +1,34 @@
+body {
+    background-color: #FFF2D7;
+}
+
+#main {
+    font-weight: 700;
+    text-align: center;
+    font-family: 'Great Vibes', cursive; /* Calligraphy font */
+}
+
+h2 {
+    font-weight: 700;
+    text-align: center;
+    font-family: 'Great Vibes', cursive; /* Calligraphy font */
+    font-size :xx-large;
+}
+
+p {
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #F8C794;
+}
+
+#second {
+    text-align: right;
+}
+
+#photo1 {
+    float: right;
+}
+
+#photo2 {
+    float: left;
+}
